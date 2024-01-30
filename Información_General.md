@@ -22,3 +22,10 @@
 
    python yolov5MultiplePolygonFinal.py -i /content/Object-Detection-and-Count-in-polygon-zone/demo2.mp4 -o resultado1.mp4 -fps 5
 
+
+
+<video width="320" height="240" controls>
+  <source src="resultado1.mp4" type="video/mp4">
+</video>
+   
+
